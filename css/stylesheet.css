@@ -1,0 +1,132 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1, h2, h3 {
+  font-family: 'Bodoni Moda', serif;
+}
+
+h1 {
+  font-size: 4.375rem;
+  margin: 0 auto;
+}
+
+h1, h2 {
+  color: #66BFBF;
+}
+
+h2 {
+  font-size: 1.875rem;
+}
+
+h3 {
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+}
+
+p {
+  line-height: 2;
+}
+
+.subtitle {
+  text-transform: uppercase;
+  letter-spacing: 8px;
+  font-weight: normal;
+}
+
+.info {
+  padding-top: 165px;
+}
+
+.top-container {
+  background-color: #e3fdfd;
+  position: relative;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+  margin-top: 100px;
+  padding: 60px;
+  background-color: #e3fdfd;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 500px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 400px;
+  top: 50px;
+}
+
+.footer-link {
+  margin: 0 20px 40px;
+}
+
+.profile {
+  width: 30%;
+  margin: 100px auto;
+}
+
+.mountain {
+  width: 56%;
+  height: auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.picofwebflow {
+  width: 25%;
+  float: left;
+  margin-right: 40px;
+}
+
+.picofux{
+  width: 25%;
+  float: right;
+  margin-left: 40px;
+}
+
+.picofme {
+  width: 40%;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 5px;
+  color: gray;
+  width: 5%;
+  opacity: 0.5;
+  margin: 100px auto;
+}
+
+.btn {
+  background-color: #11999E;
+  color: white;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 10px
+}
+
+.btn:hover {
+  background-color: #66BFBF;
+}
+
+.contact-p {
+  margin-bottom: 40px;
+}
